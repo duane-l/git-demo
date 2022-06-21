@@ -4,6 +4,4 @@ This is the first file in this repo.
 
 ##Ipsum Below
 
-Hello!!!!
-
 Some more Ipsum
